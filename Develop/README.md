@@ -1,3 +1,5 @@
+Homework 1 - Code Refractor
+
 Marian's Edits
 
 Goal: Edit HTML file to leave the code cleaner than found.
@@ -8,6 +10,12 @@ Goal: Edit HTML file to leave the code cleaner than found.
 4. Add alt attributes to image tags
 5. Edit html to be structured appropriately
 6. Edit headers to follow sequential order
+
+Roadblocks: updating the class="search-engine-optimization" to id="search-engine-optimization". It appears to function as an 'id' appropriately in the css file, so I ended up not keeping the edit.
+
+---
+
+Original README file
 
 # 01 HTML CSS Git: Code Refactor
 
