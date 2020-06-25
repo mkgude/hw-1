@@ -1,3 +1,14 @@
+Marian's Edits
+
+Goal: Edit HTML file to leave the code cleaner than found.
+
+1. Add comments to html file on where edits need to be made.
+2. Edit Title to be more descriptive
+3. Edit to add semantic tags
+4. Add alt attributes to image tags
+5. Edit html to be structured appropriately
+6. Edit headers to follow sequential order
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
@@ -36,9 +47,10 @@ THEN I find a concise, descriptive title
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+- The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-- - -
+---
+
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
